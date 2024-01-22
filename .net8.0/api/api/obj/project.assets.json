@@ -3199,11 +3199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\klleriston_calriz\\Documents\\Login-JWT.NET8.0ANGULAR14\\.net8.0\\api\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\klleriston_calriz\\Desktop\\Login-JWT.NET8.0ANGULAR14\\.net8.0\\api\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\klleriston_calriz\\Documents\\Login-JWT.NET8.0ANGULAR14\\.net8.0\\api\\api\\api.csproj",
+      "projectPath": "C:\\Users\\klleriston_calriz\\Desktop\\Login-JWT.NET8.0ANGULAR14\\.net8.0\\api\\api\\api.csproj",
       "packagesPath": "C:\\Users\\klleriston_calriz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\klleriston_calriz\\Documents\\Login-JWT.NET8.0ANGULAR14\\.net8.0\\api\\api\\obj\\",
+      "outputPath": "C:\\Users\\klleriston_calriz\\Desktop\\Login-JWT.NET8.0ANGULAR14\\.net8.0\\api\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\klleriston_calriz\\AppData\\Roaming\\NuGet\\NuGet.Config",

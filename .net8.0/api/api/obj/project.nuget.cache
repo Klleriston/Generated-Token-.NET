@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ruYUZNEc3y2rcC3Y4Hy/UgG4GhCxRdBRPDsttaDFGXxqliEBAO8DANmaWS97pvCand7bvhTIYMd14MgGwxldQA==",
+  "dgSpecHash": "3evJK/zFv3rzTFl6K2EqXI0BpSe603Vr2j42Y696/H1KEDJzPGBiAmRemjR1Yv2ANVT6dCaOUnzwZ1o65ZJnlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\klleriston_calriz\\Documents\\Login-JWT.NET8.0ANGULAR14\\.net8.0\\api\\api\\api.csproj",
+  "projectFilePath": "C:\\Users\\klleriston_calriz\\Desktop\\Login-JWT.NET8.0ANGULAR14\\.net8.0\\api\\api\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\klleriston_calriz\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\klleriston_calriz\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.1\\microsoft.aspnetcore.authentication.jwtbearer.8.0.1.nupkg.sha512",
