@@ -6,6 +6,6 @@
     "\\.net8.0\\api\\api",
     "\\.net8.0\\api\\api\\Migrations"
   ],
-  "SelectedNode": "\\.net8.0\\api\\api\\Migrations\\20240119232719_login-system.cs",
+  "SelectedNode": "\\.net8.0\\api\\api\\Properties",
   "PreviewInSolutionExplorer": false
 }

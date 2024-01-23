@@ -17,7 +17,17 @@ builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddDefaultTokenProviders();
 builder.Services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-
+services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = false,
+            ValidateAudience = false,
+            ValidateLifetime = true,
+            ValidateIssuerSigningKey = true,
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["jwt:key"])),
+            ClockSkew = TimeSpan.Zero
+        });
+         }
 
 var app = builder.Build();
 if (app.Environment.IsDevelopment())
