@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>api</name>
+    </assembly>
+    <members>
+        <member name="M:api.Controllers.UserController.Register(api.Model.User)">
+            <summary>
+            Register
+            </summary>
+            <returns>IActionResult</returns>
+            <response code="201">Caso inserção seja feita com sucesso</response>                                                                                                                    
+        </member>
+        <member name="M:api.Controllers.UserController.Login(api.Model.User)">
+            <summary>
+            Logar
+            </summary>
+            <returns>IActionResult</returns>
+            <response code="201">Caso inserção seja feita com sucesso</response>
+        </member>
+        <member name="T:api.Migrations.loginsystem">
+            <inheritdoc />
+        </member>
+        <member name="M:api.Migrations.loginsystem.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:api.Migrations.loginsystem.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:api.Migrations.loginsystem.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:api.Migrations.m">
+            <inheritdoc />
+        </member>
+        <member name="M:api.Migrations.m.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:api.Migrations.m.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:api.Migrations.m.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

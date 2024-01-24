@@ -4,8 +4,9 @@
     "\\.net8.0",
     "\\.net8.0\\api",
     "\\.net8.0\\api\\api",
-    "\\.net8.0\\api\\api\\Migrations"
+    "\\.net8.0\\api\\api\\Migrations",
+    "\\.net8.0\\api\\api\\Services"
   ],
-  "SelectedNode": "\\.net8.0\\api\\api\\Properties",
+  "SelectedNode": "\\.net8.0\\api\\api\\Services\\UserService.cs",
   "PreviewInSolutionExplorer": false
 }
